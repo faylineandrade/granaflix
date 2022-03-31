@@ -7,7 +7,7 @@ Foi utilizado as tecnologias: HTML5, CSS3 JavaScript e Bootstrap.
 
 ⚠️É de grande importância informar que o projeto será usado somente para fins acadêmicos.
 
-📝As aulas do Felipe Aguiar na plataforma DIO e do Silvio Sampaio do Canal no YouTube O Irmão mais Velho.
+📝As aulas do Felipe Aguiar na plataforma DIO e do Silvio Sampaio do Canal no YouTube O Irmão mais Velho foram a base para que o granaflix ganhasse a primeir versão.
 
 
 
