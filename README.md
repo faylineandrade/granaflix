@@ -3,11 +3,13 @@ Este repositório faz parte de um projeto prático para o Bootcamp  da DIO com I
 veloper.
 
 💡O granaflix ganhou forma através do desafio de clonar a interface da NETFLIX.
-Foi utilizado as tecnologias: HTML5, CSS3 JavaScript e Bootstrap.
+Foi utilizado as tecnologias: HTML5, CSS3, JavaScript e Bootstrap.
 
 ⚠️É de grande importância informar que o projeto será usado somente para fins acadêmicos.
+O objetivo é aplicar os conhecimentos até então adquiridos de desenvolvimento front-end.
 
-📝As aulas do Felipe Aguiar na plataforma DIO e do Silvio Sampaio do Canal no YouTube O Irmão mais Velho foram a base para que o granaflix ganhasse a primeir versão.
+📝As aulas do Felipe Aguiar na plataforma DIO e do Silvio Sampaio do Canal no YouTube "O Irmão mais Velho" foram a base para que o granaflix ganhasse a primeira versão.
+
 
 
 
