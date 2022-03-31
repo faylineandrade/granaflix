@@ -1,0 +1,104 @@
+
+
+header .container{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+
+    
+}
+
+header .logo{
+    margin-left: 5px;
+    color: lightgreen;
+    font-size:40px;
+}
+
+header nav a{
+    text-decoration:none;
+    color:#AAA;
+    margin-right: 10px;
+}
+
+
+header nav a:hover{
+    color: orange;
+}
+
+
+#hero{
+    height: 800px;
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url(img/stbr.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    z-index: 0;
+    top: 1;     
+}
+    
+#hero_infos{
+    padding:0;
+    margin-top: 300px;
+    z-index: 3;
+    position: relative;
+}
+
+#box-container{
+    margin-top: 840px;
+    padding: 10px;
+}
+
+
+h5{
+    color: orangered;
+    padding: 30px;
+}
+
+.lista-serie{
+    overflow-x: scroll;
+    list-style: none;
+    padding: 0;
+    white-space: nowrap;
+    padding: 20px 0;
+    display: block;
+
+}
+
+.lista-serie::-webkit-scrollbar{
+    display:none;
+    overflow: hidden;
+ }
+
+.serie{
+    display: inline-block;
+    width: 250px;
+    margin-right: 10px;
+    border-radius:3px;
+    overflow: hidden;
+    transform: 0.5s;
+}
+
+.serie:hover{
+    cursor:pointer;
+    transform: scale(1.1);
+    z-index: 999;
+    transform: 0.5s;
+}
+
+
+.info-serie{
+    padding: 10px;
+    height: 100px;
+    width: 50%;
+}
+
+#titulo-granaflixers{
+    color:green;
+}
+
+footer{
+    color:lightgreen;
+    height: 45px;
+    margin-left: 600px; 
+}
